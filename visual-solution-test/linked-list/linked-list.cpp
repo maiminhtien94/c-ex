@@ -4,6 +4,6 @@
 int main()
 {
     printf("Hello\r\n");
-    std::cout << "Hello World!\n";
+    //std::cout << "Hello World!\n";
 }
 
